@@ -15,5 +15,5 @@ int main()
     printf("5 dollar bills: %d\n", money/5);
     money-= 5*(money/5);
 
-    printf("11 dollar bills: %d\n",money/1);
+    printf("1 dollar bills: %d\n",money/1);
     }
